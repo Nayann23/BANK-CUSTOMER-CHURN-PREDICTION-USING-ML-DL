@@ -22,7 +22,7 @@ This is a simple web-based application built using **Streamlit** that predicts w
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/Nayann23/BANK-CUSTOMER-CHURN-PREDICTION-USING-ML-DL.git)
    cd churn-prediction-app
    ```
 
