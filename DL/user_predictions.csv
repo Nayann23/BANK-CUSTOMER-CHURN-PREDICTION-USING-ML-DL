@@ -1,0 +1,2 @@
+Name,CreditScore,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Geography,Gender,ChurnProbability,Prediction,Timestamp
+Vaishnavi Kulkarni ,600,35,5,50000.0,2,1,1,75000.0,France,Male,0.0381,Stay,2025-10-08 12:39:03
